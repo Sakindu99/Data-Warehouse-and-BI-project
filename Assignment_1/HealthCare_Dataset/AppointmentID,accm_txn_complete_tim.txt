@@ -1,0 +1,3 @@
+AppointmentID,accm_txn_complete_time
+1001,2025-04-29 18:00:00
+1002,2025-04-30 14:00:00
